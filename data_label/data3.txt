@@ -1,0 +1,101 @@
+0	data3	100	2	
+frame:0	0			
+frame:1	0			
+frame:2	0			
+frame:3	0			
+frame:4	0			
+frame:5	0			
+frame:6	0			
+frame:7	0			
+frame:8	0			
+frame:9	0			
+frame:10	0			
+frame:11	0			
+frame:12	1	object:1	244	74
+frame:13	1	object:1	219	74
+frame:14	1	object:1	214	72
+frame:15	1	object:1	221	70
+frame:16	1	object:1	229	68
+frame:17	1	object:1	234	66
+frame:18	1	object:1	236	64
+frame:19	1	object:1	239	63
+frame:20	1	object:1	242	61
+frame:21	1	object:1	245	59
+frame:22	1	object:1	247	58
+frame:23	1	object:1	250	56
+frame:24	1	object:1	252	55
+frame:25	1	object:1	253	55
+frame:26	1	object:1	255	54
+frame:27	1	object:1	255	55
+frame:28	1	object:1	255	53
+frame:29	0			
+frame:30	0			
+frame:31	0			
+frame:32	0			
+frame:33	0			
+frame:34	0			
+frame:35	0			
+frame:36	0			
+frame:37	0			
+frame:38	0			
+frame:39	0			
+frame:40	0			
+frame:41	0			
+frame:42	0			
+frame:43	0			
+frame:44	1	object:2	229	72
+frame:45	1	object:2	210	74
+frame:46	1	object:2	209	71
+frame:47	1	object:2	214	70
+frame:48	1	object:2	216	70
+frame:49	1	object:2	218	67
+frame:50	1	object:2	220	67
+frame:51	1	object:2	222	65
+frame:52	1	object:2	224	63
+frame:53	1	object:2	226	62
+frame:54	1	object:2	228	61
+frame:55	1	object:2	230	60
+frame:56	1	object:2	232	59
+frame:57	1	object:2	234	58
+frame:58	1	object:2	233	60
+frame:59	1	object:2	224	68
+frame:60	1	object:2	214	73
+frame:61	1	object:2	208	74
+frame:62	1	object:2	209	73
+frame:63	1	object:2	210	72
+frame:64	1	object:2	211	71
+frame:65	1	object:2	212	70
+frame:66	1	object:2	214	68
+frame:67	1	object:2	214	67
+frame:68	1	object:2	216	66
+frame:69	1	object:2	217	65
+frame:70	1	object:2	219	64
+frame:71	1	object:2	220	64
+frame:72	1	object:2	222	63
+frame:73	1	object:2	222	63
+frame:74	1	object:2	224	62
+frame:75	1	object:2	226	61
+frame:76	1	object:2	228	60
+frame:77	1	object:2	229	58
+frame:78	1	object:2	231	57
+frame:79	1	object:2	245	47
+frame:80	1	object:2	247	46
+frame:81	1	object:2	248	45
+frame:82	1	object:2	243	52
+frame:83	1	object:2	219	71
+frame:84	1	object:2	192	86
+frame:85	1	object:2	175	88
+frame:86	1	object:2	176	85
+frame:87	1	object:2	181	82
+frame:88	1	object:2	183	81
+frame:89	1	object:2	185	80
+frame:90	1	object:2	187	78
+frame:91	1	object:2	187	77
+frame:92	1	object:2	189	75
+frame:93	1	object:2	190	74
+frame:94	1	object:2	191	73
+frame:95	1	object:2	193	71
+frame:96	1	object:2	195	70
+frame:97	1	object:2	196	69
+frame:98	1	object:2	198	69
+frame:99	1	object:2	200	68
